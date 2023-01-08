@@ -1,0 +1,7 @@
+*.jpeg
+*.jpg
+*.png
+*.pt
+.DS_Store
+.idea
+venv

@@ -1,0 +1,17 @@
+Pillow
+dash
+dash-bootstrap-components
+dash_daq
+flask
+numpy
+opencv-python
+plotly-express
+torch
+torchvision
+
+# YOLOv5 requirements
+IPython
+pyyaml
+tqdm
+matplotlib
+seaborn
